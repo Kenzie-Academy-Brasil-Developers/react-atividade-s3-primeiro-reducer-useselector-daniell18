@@ -1,0 +1,35 @@
+.root {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-between;
+  width: 200px;
+  padding: 10px;
+  background-color: coral;
+  height: 100px;
+  border: 1px solid black;
+}
+.Banana {
+  width: 100px;
+  height: 50px;
+  background-position: center;
+  background-image: url("./1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.Maçã {
+  width: 90px;
+  height: 50px;
+  background-image: url("./2.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.Morango {
+  width: 100px;
+  height: 50px;
+  background-image: url("./3.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
